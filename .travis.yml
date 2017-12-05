@@ -25,7 +25,6 @@ before_install:
   - gem install fog-azure-rm -v 0.3.3
   - gem install crack -v 0.4.3
   - gem install codeclimate-test-reporter -v 1.0.0
-  - gem install azure-core -v 0.1.12
 
 script: bash ./rake-script.sh
 
