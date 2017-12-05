@@ -22,7 +22,7 @@ before_install:
   - gem install fog -v 1.38.0
   - gem install net-scp -v 1.1.2
   - gem install net-ldap -v 0.6.1
-  - gem install fog-azure-rm -v 0.3.3
+  - gem install fog-azure-rm -v 0.3.5
   - gem install crack -v 0.4.3
   - gem install codeclimate-test-reporter -v 1.0.0
 

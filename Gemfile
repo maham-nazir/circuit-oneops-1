@@ -9,4 +9,4 @@ else
     `gem source`.split("\n").select{|l| (l =~ /^http/)}.each{|s| (source "#{s}")}
 end
 
-gem 'oneops-admin-adapter'
+# gem 'oneops-admin-adapter'
